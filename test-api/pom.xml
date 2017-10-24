@@ -13,12 +13,13 @@
 	<dependencies>
 	
 		<!-- Test -->
+		
 		<dependency>
 			<groupId>com.test</groupId>
-			<artifactId>test-model</artifactId>
+			<artifactId>test-service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-
+		
 		<!-- Spring Framework -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
